@@ -1,6 +1,6 @@
 # Tugas4_flutter
 
-A new Flutter project.
+Belajar StatelessWidget ke kelas lain
 
 ## Getting Started
 
